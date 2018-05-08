@@ -1,3 +1,5 @@
-# primeiroRepositorio2018
+﻿# primeiroRepositorio2018
 
-Esse e o meu primeiro repositório git
+Estou aprendendo a utillizar o git 
+
+
